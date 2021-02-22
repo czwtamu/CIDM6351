@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd3"
+  },
+  "Film": "Water For Elephants",
+  "Genre": "Drama",
+  "Lead Studio": "20th Century Fox",
+  "Audience score %": "72",
+  "Profitability": "3.081421053",
+  "Rotten Tomatoes %": "60",
+  "Worldwide Gross": "$117.09 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd6"
+  },
+  "Film": "Waiting For Forever",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "53",
+  "Profitability": "0.005",
+  "Rotten Tomatoes %": "6",
+  "Worldwide Gross": "$0.03 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd9"
+  },
+  "Film": "Twilight: Breaking Dawn",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "68",
+  "Profitability": "6.383363636",
+  "Rotten Tomatoes %": "26",
+  "Worldwide Gross": "$702.17 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fe5"
+  },
+  "Film": "Something Borrowed",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "48",
+  "Profitability": "1.719514286",
+  "Rotten Tomatoes %": "15",
+  "Worldwide Gross": "$60.18 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574ff0"
+  },
+  "Film": "One Day",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "54",
+  "Profitability": "3.682733333",
+  "Rotten Tomatoes %": "37",
+  "Worldwide Gross": "$55.24 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574ff4"
+  },
+  "Film": "New Year's Eve",
+  "Genre": "Romance",
+  "Lead Studio": "Warner Bros.",
+  "Audience score %": "48",
+  "Profitability": "2.536428571",
+  "Rotten Tomatoes %": "8",
+  "Worldwide Gross": "$142.04 ",
+  "Year": "2011"
+}]
