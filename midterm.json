@@ -1,0 +1,277 @@
+[{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fce"
+  },
+  "Film": "Zack and Miri Make a Porno",
+  "Genre": "Romance",
+  "Lead Studio": "The Weinstein Company",
+  "Audience score %": "70",
+  "Profitability": "1.747541667",
+  "Rotten Tomatoes %": "64",
+  "Worldwide Gross": "$41.94 ",
+  "Year": "2008"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fcf"
+  },
+  "Film": "Youth in Revolt",
+  "Genre": "Comedy",
+  "Lead Studio": "The Weinstein Company",
+  "Audience score %": "52",
+  "Profitability": "1.09",
+  "Rotten Tomatoes %": "68",
+  "Worldwide Gross": "$19.62 ",
+  "Year": "2010"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd0"
+  },
+  "Film": "You Will Meet a Tall Dark Stranger",
+  "Genre": "Comedy",
+  "Lead Studio": "Independent",
+  "Audience score %": "35",
+  "Profitability": "1.211818182",
+  "Rotten Tomatoes %": "43",
+  "Worldwide Gross": "$26.66 ",
+  "Year": "2010"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd1"
+  },
+  "Film": "When in Rome",
+  "Genre": "Comedy",
+  "Lead Studio": "Disney",
+  "Audience score %": "44",
+  "Profitability": "0",
+  "Rotten Tomatoes %": "15",
+  "Worldwide Gross": "$43.04 ",
+  "Year": "2010"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd2"
+  },
+  "Film": "What Happens in Vegas",
+  "Genre": "Comedy",
+  "Lead Studio": "Fox",
+  "Audience score %": "72",
+  "Profitability": "6.267647029",
+  "Rotten Tomatoes %": "28",
+  "Worldwide Gross": "$219.37 ",
+  "Year": "2008"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd3"
+  },
+  "Film": "Water For Elephants",
+  "Genre": "Drama",
+  "Lead Studio": "20th Century Fox",
+  "Audience score %": "72",
+  "Profitability": "3.081421053",
+  "Rotten Tomatoes %": "60",
+  "Worldwide Gross": "$117.09 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd4"
+  },
+  "Film": "WALL-E",
+  "Genre": "Animation",
+  "Lead Studio": "Disney",
+  "Audience score %": "89",
+  "Profitability": "2.896019067",
+  "Rotten Tomatoes %": "96",
+  "Worldwide Gross": "$521.28 ",
+  "Year": "2008"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd5"
+  },
+  "Film": "Waitress",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "67",
+  "Profitability": "11.0897415",
+  "Rotten Tomatoes %": "89",
+  "Worldwide Gross": "$22.18 ",
+  "Year": "2007"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd6"
+  },
+  "Film": "Waiting For Forever",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "53",
+  "Profitability": "0.005",
+  "Rotten Tomatoes %": "6",
+  "Worldwide Gross": "$0.03 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd7"
+  },
+  "Film": "Valentine's Day",
+  "Genre": "Comedy",
+  "Lead Studio": "Warner Bros.",
+  "Audience score %": "54",
+  "Profitability": "4.184038462",
+  "Rotten Tomatoes %": "17",
+  "Worldwide Gross": "$217.57 ",
+  "Year": "2010"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd8"
+  },
+  "Film": "Tyler Perry's Why Did I get Married",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "47",
+  "Profitability": "3.7241924",
+  "Rotten Tomatoes %": "46",
+  "Worldwide Gross": "$55.86 ",
+  "Year": "2007"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fd9"
+  },
+  "Film": "Twilight: Breaking Dawn",
+  "Genre": "Romance",
+  "Lead Studio": "Independent",
+  "Audience score %": "68",
+  "Profitability": "6.383363636",
+  "Rotten Tomatoes %": "26",
+  "Worldwide Gross": "$702.17 ",
+  "Year": "2011"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fda"
+  },
+  "Film": "Twilight",
+  "Genre": "Romance",
+  "Lead Studio": "Summit",
+  "Audience score %": "82",
+  "Profitability": "10.18002703",
+  "Rotten Tomatoes %": "49",
+  "Worldwide Gross": "$376.66 ",
+  "Year": "2008"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fdb"
+  },
+  "Film": "The Ugly Truth",
+  "Genre": "Comedy",
+  "Lead Studio": "Independent",
+  "Audience score %": "68",
+  "Profitability": "5.402631579",
+  "Rotten Tomatoes %": "14",
+  "Worldwide Gross": "$205.30 ",
+  "Year": "2009"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fdc"
+  },
+  "Film": "The Twilight Saga: New Moon",
+  "Genre": "Drama",
+  "Lead Studio": "Summit",
+  "Audience score %": "78",
+  "Profitability": "14.1964",
+  "Rotten Tomatoes %": "27",
+  "Worldwide Gross": "$709.82 ",
+  "Year": "2009"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fdd"
+  },
+  "Film": "The Time Traveler's Wife",
+  "Genre": "Drama",
+  "Lead Studio": "Paramount",
+  "Audience score %": "65",
+  "Profitability": "2.598205128",
+  "Rotten Tomatoes %": "38",
+  "Worldwide Gross": "$101.33 ",
+  "Year": "2009"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fde"
+  },
+  "Film": "The Proposal",
+  "Genre": "Comedy",
+  "Lead Studio": "Disney",
+  "Audience score %": "74",
+  "Profitability": "7.8675",
+  "Rotten Tomatoes %": "43",
+  "Worldwide Gross": "$314.70 ",
+  "Year": "2009"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fdf"
+  },
+  "Film": "The Invention of Lying",
+  "Genre": "Comedy",
+  "Lead Studio": "Warner Bros.",
+  "Audience score %": "47",
+  "Profitability": "1.751351351",
+  "Rotten Tomatoes %": "56",
+  "Worldwide Gross": "$32.40 ",
+  "Year": "2009"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fe0"
+  },
+  "Film": "The Heartbreak Kid",
+  "Genre": "Comedy",
+  "Lead Studio": "Paramount",
+  "Audience score %": "41",
+  "Profitability": "2.129444167",
+  "Rotten Tomatoes %": "30",
+  "Worldwide Gross": "$127.77 ",
+  "Year": "2007"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fe1"
+  },
+  "Film": "The Duchess",
+  "Genre": "Drama",
+  "Lead Studio": "Paramount",
+  "Audience score %": "68",
+  "Profitability": "3.207850222",
+  "Rotten Tomatoes %": "60",
+  "Worldwide Gross": "$43.31 ",
+  "Year": "2008"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fe2"
+  },
+  "Film": "The Curious Case of Benjamin Button",
+  "Genre": "Fantasy",
+  "Lead Studio": "Warner Bros.",
+  "Audience score %": "81",
+  "Profitability": "1.78394375",
+  "Rotten Tomatoes %": "73",
+  "Worldwide Gross": "$285.43 ",
+  "Year": "2008"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fe3"
+  },
+  "Film": "The Back-up Plan",
+  "Genre": "Comedy",
+  "Lead Studio": "CBS",
+  "Audience score %": "47",
+  "Profitability": "2.202571429",
+  "Rotten Tomatoes %": "20",
+  "Worldwide Gross": "$77.09 ",
+  "Year": "2010"
+},{
+  "_id": {
+    "$oid": "5e93eff5d8aa005a58574fe4"
+  },
+  "Film": "Tangled",
+  "Genre": "Animation",
+  "Lead Studio": "Disney",
+  "Audience score %": "88",
+  "Profitability": "1.365692308",
+  "Rotten Tomatoes %": "89",
+  "Worldwide Gross": "$355.01 ",
+  "Year": "2010"
+}]
