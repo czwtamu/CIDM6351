@@ -1,1 +1,6 @@
-stu_id,stu_name,address,birthday1001,Alice,Amarillo,6/13/20081002,Bob,Amarillo,4/23/20051003,Cathy,Amarillo,7/3/20071004,David,Amarillo,11/22/20031015,Ella,Amarillo,5/13/2006
+stu_id,stu_name,address,birthday
+1001,Alice,Amarillo,6/13/2008
+1002,Bob,Amarillo,4/23/2005
+1003,Cathy,Amarillo,7/3/2007
+1004,David,Amarillo,11/22/2003
+1005,Ella,Amarillo,5/13/2006
